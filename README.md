@@ -1,4 +1,4 @@
-### Hi there, I'm Myat. 👋
+### Hi there, I'm Yuzu. 👋
 
 - 🔭 I’m currently working as an AI engineer.
 - 🌱 I’m currently learning everything related to Computer Vision and C++.
