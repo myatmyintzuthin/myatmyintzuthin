@@ -1,7 +1,7 @@
 ### Hi there, I'm Myat. 👋
 
 - 🔭 I’m currently working as an AI engineer.
-- 🌱 I’m currently learning everything related to Computer Vision.
+- 🌱 I’m currently learning everything related to Computer Vision and C++.
 - 👯 I’m looking to collaborate on Computer Vision projects.
 
 
