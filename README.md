@@ -1,4 +1,4 @@
-### _Hi there, I'm Yuzu._ 👋
+### _Hi there, I'm Myat._ 👋
 
 - 🔭 I’m currently working as an AI engineer and a software developer.
 - As an AI engineer, I develop AI models, and AI backend servers.
