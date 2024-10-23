@@ -14,4 +14,7 @@
 
 
 ### _Stats_
-![myatmyintzuthin's GitHub stats](https://github-readme-stats.vercel.app/api?username=myatmyintzuthin&count_private=false&theme=tokyonight&hide=contribs)
+<p aligh="left">
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=myatmyintzuthin&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=myatmyintzuthin&layout=compact&theme=midnight-purple" />
+</p>
