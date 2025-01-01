@@ -4,7 +4,6 @@
 - As an AI engineer, I develop AI models, and AI backend servers.
 - As a software developer, I develop Qt Desktop Applications using Python and C++.
 - AWS cloud practitioner, AWS machine learning specialty certified
-- Guess what, I am developing LLMs in Japan! :p
 
 ### _Languages_
 
